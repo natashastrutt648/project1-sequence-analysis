@@ -1,4 +1,4 @@
-# Project 1: Identifying Mutations in NGS Data
+#Project 1: Identifying Mutations in NGS Data
 
 ## Project Overview
 
@@ -27,10 +27,10 @@ The analysis  is shown as a Jupyter notebook and designed to run in Google Colab
 4. Review the outputs and final interpretation.
 
 ## Results
-Higher mismatch percentages were seen in the treated samples compared to the control samples. 
-In the treatment group, the mean mismatch percentage was 60.33% compared with 8.33% in the control group.
-Welch’s t-test showed statistically significant differences at positions 97, 98 and 99.
-These findings suggest an increased frequency of DNA mismatches after genotoxic treatment.
+- Higher mismatch percentages were seen in the treated samples compared to the control samples. 
+- In the treatment group, the mean mismatch percentage was 60.33% compared with 8.33% in the control group.
+- Welch’s t-test showed statistically significant differences at positions 97, 98 and 99.
+- These findings suggest an increased frequency of DNA mismatches after genotoxic treatment.
 
 ## Testing
 - All functions were tested using the assessment tests.
