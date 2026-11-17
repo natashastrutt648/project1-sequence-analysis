@@ -47,5 +47,11 @@ These findings suggest an increased frequency of DNA mismatches after genotoxic 
 - Welch’s t-test was used as it doesn't assume equal variances.
 
 
+## Additional Testing
+Testing included:
+
+- Checking reads with lowercase nucleotide characters to make sure they were changed to uppercase.
+- Checking reads with invalid characters and/or wrong lengths.
+- Using both reads with mismatches and no mismatches for testing mutation analysis
 
 
