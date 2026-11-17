@@ -41,6 +41,10 @@ These findings suggest an increased frequency of DNA mismatches after genotoxic 
 - Google Colab
 - Jupyter Notebook
 
+## Design Decisions
+- The code is not written as a long block, instead it is split into five functions to make each stage easier to test and understand. 
+- Dictionaries were useful to store results as they link each result to a key. 
+- Welch’s t-test was used as it doesn't assume equal variances.
 
 
 
